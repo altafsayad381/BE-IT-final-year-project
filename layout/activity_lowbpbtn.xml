@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".lowbpbtn">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:contentDescription="@string/todo"
+            android:src="@drawable/lb1"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="300dp"
+            android:src="@drawable/lb2"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="600dp"
+            android:src="@drawable/lb3"
+            tools:ignore="ContentDescription" >
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="900dp"
+            android:src="@drawable/lb4"
+            tools:ignore="ContentDescription" >
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="1200dp"
+            android:src="@drawable/lb5"
+            tools:ignore="ContentDescription" >
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="1500dp"
+            android:src="@drawable/lb6"
+            tools:ignore="ContentDescription" >
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="1800dp"
+            android:src="@drawable/lb7"
+            tools:ignore="ContentDescription" >
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="2100dp"
+            android:src="@drawable/lb8"
+            tools:ignore="ContentDescription" >
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="2400dp"
+            android:src="@drawable/lb9"
+            tools:ignore="ContentDescription" >
+        </ImageView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="2700dp"
+            android:src="@drawable/lb10"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="3000dp"
+            android:src="@drawable/lb11"
+            tools:ignore="ContentDescription" />
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EFE692"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/anemia" />
+
+            <Button
+                android:id="@+id/anemia"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/anemia"
+                android:textColor="#040303"
+                android:textSize="24sp">
+
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/hypertension" />
+
+            <Button
+                android:id="@+id/hypertension"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/dibetise_hypertension"
+                android:textColor="#040303"
+                android:textSize="22sp">
+
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/lowbp" />
+
+            <Button
+                android:id="@+id/lowbp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/low_blood_pressure"
+                android:textColor="#040303"
+                android:textSize="24sp">
+
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/stone" />
+
+            <Button
+                android:id="@+id/stone"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/stone"
+                android:textColor="#040303"
+                android:textSize="24sp">
+
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/thyroid" />
+
+            <Button
+                android:id="@+id/thyroid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/thyroid"
+                android:textColor="#040303"
+                android:textSize="24sp">
+
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/celiac" />
+
+            <Button
+                android:id="@+id/celiac"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/celiac"
+                android:textColor="#040303"
+                android:textSize="24sp">
+
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/loseweight" />
+
+            <Button
+                android:id="@+id/losewt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/lose_weight"
+                android:textColor="#040303"
+                android:textSize="24sp">
+
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/weightgain" />
+
+            <Button
+                android:id="@+id/gainwt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/gain_weight"
+                android:textColor="#040303"
+                android:textSize="24sp">
+
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/renal_disease" />
+
+            <Button
+                android:id="@+id/renal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/renal_kidney_disease"
+                android:textColor="#040303"
+                android:textSize="22sp">
+
+            </Button>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#EFE692"
+            tools:context=".diet">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="70dp"
+                android:contentDescription="@string/todo"
+                android:src="@drawable/heart" />
+
+            <Button
+                android:id="@+id/heartcare"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#EFE692"
+                android:text="@string/heart_care"
+                android:textColor="#040303"
+                android:textSize="24sp">
+
+            </Button>
+        </LinearLayout>
+
+    </GridLayout>
+</ScrollView>

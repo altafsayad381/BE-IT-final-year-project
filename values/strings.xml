@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">avadhut1</string>
+    <string name="very_severely_underweight" />
+    <string name="severely_underweight" />
+    <string name="underweight" />
+    <string name="normal" />
+    <string name="overweight" />
+    <string name="obese_class_i" />
+    <string name="obese_class_ii" />
+    <string name="obese_class_iii" />
+    <string name="weight">weight</string>
+    <string name="height">height</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_of_attempts_remaining">No of attempts remaining:</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="email_id">Email id</string>
+    <string name="full_name">Full Name</string>
+    <string name="registeration">Registeration</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="pincode">Pincode</string>
+    <string name="address">Address</string>
+    <string name="submit">SUBMIT</string>
+    <string name="gender">Gender</string>
+    <string name="new_user_sign_up">New User ? Sign Up !</string>
+    <string name="already_signed_in_login">Already Signed in ? Login</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="refresh">Refresh</string>
+    <string name="calculate_bfp">Calculate BFP</string>
+    <string name="hello">Hello</string>
+    <string name="hello_there">Hello There</string>
+
+    <string name="text_here">Text Here</string>
+    <string name="text">text</string>
+    <string name="chat">CHAT</string>
+    <string name="welcome_to_my_dietcian_app">Welcome to My Dietcian App!</string>
+    <string name="other">Other</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="waist">Waist:</string>
+    <string name="neck">Neck:</string>
+    <string name="in">in</string>
+    <string name="hip">Hip:</string>
+    <string name="low">Low</string>
+    <string name="high">High</string>
+    <string name="how_old_are_you">How Old are you?</string>
+    <string name="please_enter_your_age">Please enter your age</string>
+    <string name="select_your_gender">Select Your Gender</string>
+
+    <string name="_150" />
+    <string name="select_diet">Select Diet</string>
+
+    <string name="renal_kidney_disease">renal(Kidney) Disease</string>
+    <string name="gain_weight">Gain weight</string>
+    <string name="loose_weight">loose weight</string>
+
+    <string name="celiac">celiac</string>
+
+    <string name="thyroid">thyroid</string>
+    <string name="hyper_tension">hyper tension</string>
+    <string name="heart_care">Heart care</string>
+    <string name="anemia">Anemia</string>
+    <string name="stone">stone</string>
+    <string name="low_blood_pressure">Low Blood pressure</string>
+    <string name="todo">TODO</string>
+    <string name="lose_weight">lose_weight</string>
+    <string name="dibetise_hypertension"><![CDATA[dibetise & hypertension]]></string>
+
+
+</resources>
